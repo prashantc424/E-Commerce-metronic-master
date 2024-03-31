@@ -38,7 +38,7 @@ However if you like to use these photodune images(listed in "resources/frontend/
 need to purchase a license for each used image. Metronic does not transfer any licenses for the images from photodune. Any image which is not listed in "resources/frontend/ecommerce/photos" folders can be used for free since they are open sources images. 
 
   ## Project Screenshot In PDF
-![DoctorOnCall OverView](https://github.com/prashantc424/E-Commerce-metronic-master/blob/main/Screenshot%202024-03-31%20103959.png)
+![E-Commerce OverView](https://github.com/prashantc424/E-Commerce-metronic-master/blob/main/Screenshot%202024-03-31%20103959.png)
 
 ## Contact
 Prashant Singh Chauhan - chauhanp72@gmail.com
