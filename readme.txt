@@ -1,4 +1,4 @@
-Template Name: 	E-Commerce-metronic-master
+#Template Name: 	E-Commerce-metronic-master
 
 An important info about the package folders for you to get started:
 
@@ -26,13 +26,19 @@ An important info about the package folders for you to get started:
 		- frontend    	- Contains of frontend theme template pages.
 ===================================================================================================================================================
 
-THEME SUPPORT:
+#THEME SUPPORT:
 If you have any questions or need the theme support please contact us via support@prashantc424.com.
 Also you learn about our support policy.
 
 
-IMPORTANT:
+#IMPORTANT:
 The frontend theme includes all the demo images/photos in the purchased theme folder just for your reference. 
 For the demo purposes we used some images purchased from http://photodune.net/.
 However if you like to use these photodune images(listed in "resources/frontend/ecommerce/photos" folders) then you will 
 need to purchase a license for each used image. Metronic does not transfer any licenses for the images from photodune. Any image which is not listed in "resources/frontend/ecommerce/photos" folders can be used for free since they are open sources images. 
+
+  ## Project Screenshot In PDF
+![E-Commerce OverView](https://github.com/prashantc424/E-Commerce-metronic-master/blob/main/Screenshot%202024-03-31%20103959.png)
+
+## Contact
+Prashant Singh Chauhan - chauhanp72@gmail.com
